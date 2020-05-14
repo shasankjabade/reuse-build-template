@@ -10,11 +10,18 @@
     "type": "git",
     "url": "git+https://github.com/shasankjabade/reuse-build-template.git"
   },
-  "keywords": ["react", "css", "spinners"],
+  "keywords": [
+    "react",
+    "css",
+    "spinners"
+  ],
   "author": "Shasank Jabade",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/shasankjabade/reuse-build-template/issues"
   },
-  "homepage": "https://github.com/shasankjabade/reuse-build-template#readme"
+  "homepage": "https://github.com/shasankjabade/reuse-build-template#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  }
 }
