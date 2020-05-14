@@ -1,0 +1,20 @@
+{
+  "name": "reuse-build-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shasankjabade/reuse-build-template.git"
+  },
+  "keywords": ["react", "css", "spinners"],
+  "author": "Shasank Jabade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shasankjabade/reuse-build-template/issues"
+  },
+  "homepage": "https://github.com/shasankjabade/reuse-build-template#readme"
+}
